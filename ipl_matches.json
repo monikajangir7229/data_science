@@ -1,0 +1,34 @@
+[
+    {
+        "match_id": 1,
+        "team1": "CSK",
+        "team2": "MI",
+        "stadium": "Wankhede Stadium",
+        "winner": "CSK",
+        "score": {
+            "CSK": 198,
+            "MI": 190
+        },
+        "players": {
+            "Dhoni": 45,
+            "Rohit": 70,
+            "Gaikwad": 60
+        }
+    },
+    {
+        "match_id": 2,
+        "team1": "RCB",
+        "team2": "KKR",
+        "stadium": "Chinnaswamy Stadium",
+        "winner": "RCB",
+        "score": {
+            "RCB": 210,
+            "KKR": 180
+        },
+        "players": {
+            "Virat": 85,
+            "Maxwell": 55,
+            "Russell": 40
+        }
+    }
+]
